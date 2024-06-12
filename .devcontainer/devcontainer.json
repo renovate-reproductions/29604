@@ -1,8 +1,8 @@
 {
 	"name": "example devcontainers",
-	"image": "mcr.microsoft.com/devcontainers/python:3.12",
+	"image": "mcr.microsoft.com/devcontainers/python:3.12@sha256:d79353264c02d921f736cb31a8a1c1a3a1498f2e5e7097c52ddaf1a0a92fb6ec",
 
 	"features": {
-		"ghcr.io/stuartleeks/dev-container-features/shell-history:0.0.3": {}
+		"ghcr.io/stuartleeks/dev-container-features/shell-history:0.0.3@sha256:6caee1863304394cbd58f815757a55bce3f9150a4396ca8e2703683367e919ac": {}
 	}
 }
